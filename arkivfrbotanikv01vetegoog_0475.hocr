@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanikv01vetegoog_0475.png"; bbox 0 0 3241 5080; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2381 317 2651 365">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2381 317 2651 365">
+     <span class='ocr_line' id='line_1_1' title="bbox 2381 317 2651 365; baseline 0.004 -1"><span class='ocrx_word' id='word_1_1' title='bbox 2381 317 2567 365; x_wconf 75' lang='lat' dir='ltr'><em>TAFL.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 2597 317 2651 365; x_wconf 89' lang='lat'>5.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 102 718 2502 4521">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 102 718 2502 4521">
+     <span class='ocr_line' id='line_1_2' title="bbox 102 718 2502 4521; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 102 718 2502 4521; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 106 4693 1815 4774">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 106 4693 1815 4774">
+     <span class='ocr_line' id='line_1_3' title="bbox 106 4693 1815 4774; baseline 0.003 -22"><span class='ocrx_word' id='word_1_4' title='bbox 106 4693 120 4739; x_wconf 89' lang='lat'>‘·</span> <span class='ocrx_word' id='word_1_5' title='bbox 151 4710 187 4748; x_wconf 89' lang='lat' dir='ltr'>v.</span> <span class='ocrx_word' id='word_1_6' title='bbox 219 4701 558 4763; x_wconf 83' lang='lat' dir='ltr'>trichotoides</span> <span class='ocrx_word' id='word_1_7' title='bbox 596 4707 834 4762; x_wconf 79' lang='lat' dir='ltr'><em>Dahlst.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 984 4709 1031 4761; x_wconf 83' lang='lat'>3.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1112 4707 1180 4760; x_wconf 78' lang='lat' dir='ltr'><strong>l-l.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1222 4705 1536 4774; x_wconf 72' lang='lat' dir='ltr'>lonqifrons</span> <span class='ocrx_word' id='word_1_11' title='bbox 1575 4703 1815 4758; x_wconf 66' lang='lat' dir='ltr'><em>Dalvlst.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

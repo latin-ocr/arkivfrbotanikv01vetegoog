@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanikv01vetegoog_0005.png"; bbox 0 0 3241 5080; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 881 1079 1845 1259">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 881 1079 1845 1259">
+     <span class='ocr_line' id='line_1_1' title="bbox 881 1079 1845 1259; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 881 1079 1845 1259; x_wconf 78' lang='lat' dir='ltr'><strong>ARKIV</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1303 1501 1424 1557">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1303 1501 1424 1557">
+     <span class='ocr_line' id='line_1_2' title="bbox 1303 1501 1424 1557; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 1303 1501 1424 1557; x_wconf 55' lang='lat' dir='ltr'><strong>1⁴26ss</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 234 1701 2480 1938">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 234 1701 2480 1938">
+     <span class='ocr_line' id='line_1_3' title="bbox 234 1701 2480 1938; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 234 1701 2480 1938; x_wconf 77' lang='lat' dir='ltr'><strong>BOTANIK</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1131 2315 1584 2363">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1131 2315 1584 2363">
+     <span class='ocr_line' id='line_1_4' title="bbox 1131 2315 1584 2363; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 1131 2315 1456 2363; x_wconf 74' lang='lat' dir='ltr'>UTGIFVET</span> <span class='ocrx_word' id='word_1_5' title='bbox 1501 2317 1584 2363; x_wconf 81' lang='lat' dir='ltr'><strong>AF</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 536 2660 2115 2718">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 536 2660 2115 2718">
+     <span class='ocr_line' id='line_1_5' title="bbox 536 2660 2115 2718; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 536 2661 541 2667; x_wconf 82' lang='grc'>’</span> <span class='ocrx_word' id='word_1_7' title='bbox 607 2661 678 2717; x_wconf 92' lang='grc' dir='ltr'><strong>Κ.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 725 2660 1072 2718; x_wconf 87' lang='lat' dir='ltr'>SVENSKA</span> <span class='ocrx_word' id='word_1_9' title='bbox 1118 2660 2115 2718; x_wconf 83' lang='lat' dir='ltr'><strong>VETENSKAPS-AKADEMIEN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1068 3215 1654 3279">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1068 3215 1654 3279">
+     <span class='ocr_line' id='line_1_6' title="bbox 1068 3215 1654 3279; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 1068 3215 1513 3279; x_wconf 82' lang='lat' dir='ltr'>BAND</span> <span class='ocrx_word' id='word_1_11' title='bbox 1588 3218 1654 3279; x_wconf 75' lang='lat'><strong>3</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 764 3445 1958 3485">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 764 3445 1958 3485">
+     <span class='ocr_line' id='line_1_7' title="bbox 764 3445 1958 3485; baseline 0.002 -2"><span class='ocrx_word' id='word_1_12' title='bbox 764 3447 882 3484; x_wconf 76' lang='lat' dir='ltr'><strong>MED</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 924 3445 981 3483; x_wconf 83' lang='lat'><strong>15</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1020 3447 1458 3484; x_wconf 73' lang='lat' dir='ltr'>AFHANDLINGAR</span> <span class='ocrx_word' id='word_1_15' title='bbox 1493 3448 1603 3485; x_wconf 78' lang='lat'>0011</span> <span class='ocrx_word' id='word_1_16' title='bbox 1643 3446 1701 3485; x_wconf 77' lang='lat'><strong>80</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1740 3448 1958 3485; x_wconf 69' lang='lat' dir='ltr'>TAFLOR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 1031 4449 2019 4651">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 1031 4449 2019 4651">
+     <span class='ocr_line' id='line_1_8' title="bbox 1154 4449 1574 4499; baseline 0.002 -1"><span class='ocrx_word' id='word_1_18' title='bbox 1154 4449 1574 4499; x_wconf 79' lang='lat' dir='ltr'>STOOKHOLM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 1031 4533 2019 4651; baseline 0.003 -81"><span class='ocrx_word' id='word_1_19' title='bbox 1031 4542 1429 4651; x_wconf 41' lang='lat' dir='ltr'><strong>*nvcxssmssTiSd&#39;d</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 1453 4542 1497 4571; x_wconf 78' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 1528 4542 1776 4573; x_wconf 63' lang='lat' dir='ltr'><strong>Nonsoenm·</strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 1804 4533 1842 4572; x_wconf 73' lang='grc' dir='ltr'><strong>δι</strong></span> <span class='ocrx_word' id='word_1_23' title='bbox 1869 4533 2019 4573; x_wconf 68' lang='lat' dir='ltr'>sonna</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

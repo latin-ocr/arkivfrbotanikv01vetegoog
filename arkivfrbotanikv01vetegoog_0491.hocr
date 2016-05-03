@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanikv01vetegoog_0491.png"; bbox 0 0 3241 5080; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2489 330 2766 380">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2489 330 2766 380">
+     <span class='ocr_line' id='line_1_1' title="bbox 2489 330 2766 380; baseline 0.011 -3"><span class='ocrx_word' id='word_1_1' title='bbox 2489 330 2675 379; x_wconf 75' lang='lat' dir='ltr'><strong>TAFL.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2715 330 2766 380; x_wconf 88' lang='lat'><strong>9.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 72 525 2649 4615">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 72 525 2649 4615">
+     <span class='ocr_line' id='line_1_2' title="bbox 72 525 2649 4615; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 72 525 2649 4615; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 78 4708 2531 4781">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 78 4708 2531 4781">
+     <span class='ocr_line' id='line_1_3' title="bbox 78 4708 2531 4781; baseline 0.002 -18"><span class='ocrx_word' id='word_1_4' title='bbox 78 4726 154 4766; x_wconf 83' lang='lat' dir='ltr'><strong>ms</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 195 4709 446 4766; x_wconf 79' lang='lat' dir='ltr'><strong>Dahlst.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 593 4710 643 4763; x_wconf 89' lang='lat'><strong>4.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 722 4709 791 4764; x_wconf 76' lang='lat' dir='ltr'><strong>H.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 833 4709 1143 4765; x_wconf 84' lang='lat' dir='ltr'>demissum</span> <span class='ocrx_word' id='word_1_9' title='bbox 1186 4708 1491 4781; x_wconf 64' lang='lat' dir='ltr'><strong>(Strbmf.)</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1640 4711 1686 4764; x_wconf 89' lang='lat'><strong>5.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1765 4710 1834 4764; x_wconf 77' lang='lat' dir='ltr'><strong>H.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1875 4712 2252 4766; x_wconf 76' lang='lat' dir='ltr'>subobtusum</span> <span class='ocrx_word' id='word_1_13' title='bbox 2293 4710 2531 4768; x_wconf 78' lang='lat' dir='ltr'><strong>Dahlst.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2304 4893 2756 4936">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2304 4893 2756 4936">
+     <span class='ocr_line' id='line_1_4' title="bbox 2304 4893 2756 4936; baseline 0 -10"><span class='ocrx_word' id='word_1_14' title='bbox 2304 4894 2343 4926; x_wconf 81' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 2375 4893 2619 4936; x_wconf 74' lang='lat' dir='ltr'>cederquist,</span> <span class='ocrx_word' id='word_1_16' title='bbox 2648 4894 2756 4927; x_wconf 79' lang='lat' dir='ltr'><strong>Foto.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

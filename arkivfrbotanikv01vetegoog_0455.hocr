@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanikv01vetegoog_0455.png"; bbox 0 0 3241 5080; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 78 4507 568 4571">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 78 4507 568 4571">
+     <span class='ocr_line' id='line_1_1' title="bbox 78 4507 568 4571; baseline 0.006 -3"><span class='ocrx_word' id='word_1_1' title='bbox 78 4507 81 4558; x_wconf 50' lang='grc' dir='ltr'><strong>Ῐ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 156 4529 267 4569; x_wconf 75' lang='lat' dir='ltr'>Eo‘b.</span> <span class='ocrx_word' id='word_1_3' title='bbox 282 4530 461 4570; x_wconf 73' lang='lat' dir='ltr'>E.Fries</span> <span class='ocrx_word' id='word_1_4' title='bbox 489 4536 568 4571; x_wconf 72' lang='lat' dir='ltr'>del.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 140 422 2035 4379">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 140 422 2035 4379">
+     <span class='ocr_line' id='line_1_2' title="bbox 140 422 2035 4379; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 140 422 2035 4379; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 603 4663 2028 4835">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 603 4663 2028 4835">
+     <span class='ocr_line' id='line_1_3' title="bbox 742 4663 2028 4742; baseline 0.001 -15"><span class='ocrx_word' id='word_1_6' title='bbox 742 4670 833 4727; x_wconf 72' lang='lat'>152.</span> <span class='ocrx_word' id='word_1_7' title='bbox 865 4672 1294 4730; x_wconf 60' lang='lat' dir='ltr'>Neocreffiez]</span> <span class='ocrx_word' id='word_1_8' title='bbox 1325 4670 1613 4727; x_wconf 65' lang='lat' dir='ltr'>Kuntzei</span> <span class='ocrx_word' id='word_1_9' title='bbox 1658 4663 1935 4742; x_wconf 57' lang='lat' dir='ltr'>(Hfflws)</span> <span class='ocrx_word' id='word_1_10' title='bbox 1963 4667 2028 4733; x_wconf 73' lang='lat' dir='ltr'>O]</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 603 4769 2028 4835; baseline -0.003 -9"><span class='ocrx_word' id='word_1_11' title='bbox 603 4770 776 4835; x_wconf 70' lang='lat'>5-11,</span> <span class='ocrx_word' id='word_1_12' title='bbox 806 4770 987 4826; x_wconf 75' lang='lat'>13-17.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1099 4810 1117 4834; x_wconf 85' lang='lat'><em>„</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1455 4811 1473 4834; x_wconf 81' lang='lat'><strong>„</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1630 4783 1740 4822; x_wconf 59' lang='lat' dir='ltr'>veni</span> <span class='ocrx_word' id='word_1_16' title='bbox 1764 4771 1942 4824; x_wconf 67' lang='lat' dir='ltr'>mmor</span> <span class='ocrx_word' id='word_1_17' title='bbox 1962 4769 2028 4823; x_wconf 70' lang='lat' dir='ltr'>R]</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

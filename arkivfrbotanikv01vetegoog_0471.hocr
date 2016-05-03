@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanikv01vetegoog_0471.png"; bbox 0 0 3241 5080; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2323 384 2593 433">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2323 384 2593 433">
+     <span class='ocr_line' id='line_1_1' title="bbox 2323 384 2593 433; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 2323 385 2511 433; x_wconf 77' lang='lat' dir='ltr'><em>TAFL.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 2540 384 2593 433; x_wconf 77' lang='lat'><strong>4.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 129 2040 1373 4567">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 129 2040 1373 4567">
+     <span class='ocr_line' id='line_1_2' title="bbox 129 2040 1373 4567; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 129 2040 1373 4567; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 104 4683 1340 4776">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 104 4683 1340 4776">
+     <span class='ocr_line' id='line_1_3' title="bbox 104 4683 1340 4776; baseline 0.011 -33"><span class='ocrx_word' id='word_1_4' title='bbox 104 4683 276 4753; x_wconf 83' lang='lat' dir='ltr'><em>Dahlst.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 409 4706 458 4759; x_wconf 82' lang='lat'><strong>3.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 532 4707 602 4761; x_wconf 76' lang='lat' dir='ltr'><strong>H.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 642 4705 1063 4776; x_wconf 83' lang='lat' dir='ltr'><strong>thaectolepium</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1101 4703 1340 4759; x_wconf 80' lang='lat' dir='ltr'><em>Dahlst.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2186 4771 2618 4815">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2186 4771 2618 4815">
+     <span class='ocr_line' id='line_1_4' title="bbox 2186 4771 2618 4815; baseline -0.002 -9"><span class='ocrx_word' id='word_1_9' title='bbox 2186 4772 2225 4806; x_wconf 87' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2248 4771 2490 4815; x_wconf 72' lang='lat' dir='ltr'>Codex-quiet,</span> <span class='ocrx_word' id='word_1_11' title='bbox 2511 4772 2618 4805; x_wconf 78' lang='lat' dir='ltr'><strong>Foto.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

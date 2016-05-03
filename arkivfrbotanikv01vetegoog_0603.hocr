@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanikv01vetegoog_0603.png"; bbox 0 0 3241 5080; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 177 204 2728 246">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 177 204 2728 246">
+     <span class='ocr_line' id='line_1_1' title="bbox 177 204 2728 246; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 177 207 368 246; x_wconf 65' lang='lat' dir='ltr'><em>Afemv</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 398 204 503 246; x_wconf 60' lang='lat' dir='ltr'><em>56ae</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 535 207 809 246; x_wconf 74' lang='grc' dir='ltr'><em>ΒοτΑΝῙκ.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 869 206 1047 245; x_wconf 74' lang='grc' dir='ltr'><strong><em>ΒΑΝΒ.</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1079 205 1126 245; x_wconf 89' lang='grc'><em>3.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1188 205 1289 246; x_wconf 65' lang='lat' dir='ltr'><em>Mo</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1323 206 1392 246; x_wconf 86' lang='lat'><em>13.</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2537 207 2657 246; x_wconf 69' lang='grc' dir='ltr'><strong><em>ΤΑΡ.</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2696 207 2728 246; x_wconf 86' lang='lat' dir='ltr'><em>l.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 191 4648 2727 4689">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 191 4648 2727 4689">
+     <span class='ocr_line' id='line_1_2' title="bbox 191 4648 2727 4689; baseline -0 -8"><span class='ocrx_word' id='word_1_10' title='bbox 191 4649 258 4681; x_wconf 77' lang='lat' dir='ltr'><em>Th.</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 282 4649 447 4681; x_wconf 76' lang='lat' dir='ltr'>Ekblom</span> <span class='ocrx_word' id='word_1_12' title='bbox 469 4649 585 4681; x_wconf 65' lang='lat' dir='ltr'><strong>‹lolim</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2310 4648 2349 4680; x_wconf 77' lang='lat' dir='ltr'><em>J.</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 2374 4648 2602 4689; x_wconf 58' lang='lat' dir='ltr'><em>Codex-quint</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 2623 4653 2727 4680; x_wconf 79' lang='lat' dir='ltr'><strong>auto.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 903 4802 1964 4874">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 903 4802 1964 4874">
+     <span class='ocr_line' id='line_1_3' title="bbox 903 4802 1964 4874; baseline -0.002 -17"><span class='ocrx_word' id='word_1_16' title='bbox 903 4820 952 4858; x_wconf 89' lang='lat' dir='ltr'><em>I.</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1026 4802 1363 4874; x_wconf 71' lang='lat' dir='ltr'><em>Eryngium</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1405 4803 1719 4858; x_wconf 77' lang='lat' dir='ltr'><em>horridum</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 1760 4805 1964 4856; x_wconf 83' lang='lat' dir='ltr'><em>Malme.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
